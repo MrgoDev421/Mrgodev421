@@ -1,16 +1,30 @@
-### Hi there 👋
+# Hi there 👋
+## How are you?
 
-<!--
-**MrgoDev421/Mrgodev421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- huevos
+- pan
+- trigo
+
+
+1. javascript
+2. html
+3. css
+
+
+~~~~
+Texto unico
+~~~~
+
+![Bande ja Paisa](https://cdn.colombia.com/gastronomia/2011/08/02/bandeja-paisa-1616.webp)<br>
+[Github](https://github.com/)
+
+
+[x] Tarea
+
+ ```html 
+<h1> esteselparragráfo </h1> 
+```
