@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 Texto unico
 ~~~~
 
-![Bande ja Paisa]([https://cdn.colombia.com/gastronomia/2011/08/02/bandeja-paisa-1616.webp)<br>
-[Github](https://github.com/]
 ![lD-Ta](https://www.elfutbolero.com.co/__export/1651627528898/sites/elfutboleromx/img/2022/05/03/befunky-collage_x29x_1.jpg_1169307048.jpg))
 [Github](https://github.com/]
 
