@@ -1,18 +1,3 @@
-# Hi there 👋
-## How are you?
-
-
-
-Here are some ideas to get you started:
-
-- huevos
-- pan
-- trigo
-
-
-1. javascript
-2. html
-3. css
 
 
 ~~~~
@@ -23,7 +8,7 @@ In this place WE LOVE SOCCER!
 [Github](https://github.com/]
 
 
-[x] Tarea
+[x] HTML5-CSS3
 
  ```html 
 <h1> esteselparragráfo </h1> 
