@@ -8,7 +8,6 @@ In this place WE LOVE SOCCER!
 
 
 
-[X]HTML5-CSS3
 
  ```html 
  
