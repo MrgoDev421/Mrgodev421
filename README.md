@@ -18,7 +18,6 @@
 
 
 
-In this place WE LOVE SOCCER!
  ```html 
  
 ```
